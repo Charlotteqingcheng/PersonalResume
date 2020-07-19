@@ -10,7 +10,7 @@
 * 期望职业：java后端工程师
 
 
-# 技能清单
+# 技能清单（ 熟悉 -> 了解 ）
 * 语言： java / JS / C++ / C / Python 
 * 后端： Android后端 / 数据流保存与读取 / 多进程 / 监听 
 * 前端： Android原生开发/ HTML / CSS / JS / 闭包风格
@@ -18,7 +18,7 @@
 * javaWeb开发： Eclipse / HTML5
 * 数据库： MySQL / SQLSever
 * 版本管理： Git
-* 其他： 微信小程序 / 爬虫 / 非原生开发 / Ajax / OOP 
+* 其他： 微信小程序 / 爬虫 / 非原生开发 / Ajax / OOP / Linus
 * 证书： CET4 / CAD高级
 * 保持更新自创app**向云护航心理软件**
 * 使用服务器云备份
