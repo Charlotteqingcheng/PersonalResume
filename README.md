@@ -65,8 +65,8 @@
 > 大一时期墨刀所设计的作品，使我强烈想设计出属于自己的app，也是向云护航app设计理念的开始
 
 # 曾获荣誉
-* 2020.06 [第十三届中国大学生计算机设计大赛 辽宁赛区 二等奖](https://github.com/Charlotteqingcheng)
-* 2020.05 第十三届中国大学生计算机设计大赛 校赛 二等奖
+* 2020.06 [第十三届中国大学生计算机设计大赛 辽宁赛区 二等奖](https://github.com/Charlotteqingcheng/Award-information)
+* 2020.05 [第十三届中国大学生计算机设计大赛 校赛 二等奖](https://github.com/Charlotteqingcheng/Award-information)
 * 2018.11 校“优秀学生”称号
 * 2018.01 CAD高级设计师资格证书
 * 2018.06 校“优秀团员”称号
