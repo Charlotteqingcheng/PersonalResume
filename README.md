@@ -12,7 +12,7 @@
 
 # 技能清单
 * 语言： Java / JS / C++ / C / Python 
-* 后端： Android后端 / 数据流保存与读取 / 多进程 / 监听 
+* 后端： Android后端 / 数据流保存与读取 / 多线程 / 监听 
 * 前端： Android原生开发/ HTML / CSS / JS / 闭包风格
 * 前端框架： Android原生框架/ HTML5 / VUE
 * javaWeb开发： Eclipse / HTML5
