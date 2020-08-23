@@ -15,10 +15,11 @@
 * 后端： Android后端 / 数据流保存与读取 / 多线程 / 监听 
 * 前端： Android原生开发/ HTML / CSS / JS / 闭包风格
 * 前端框架： Android原生框架/ HTML5 / VUE
+* 后端框架： RPC
 * javaWeb开发： Eclipse / HTML5
 * 数据库： MySQL / SQLSever
 * 版本管理： Git
-* 其他： 微信小程序 / 爬虫 / 非原生开发 / OOP / Linus
+* 其他： 微信小程序 / dubbo /爬虫 / 非原生开发 / OOP / Linus
 * 证书： CET4 / CAD高级
 * 保持更新自创app**向云护航心理软件**
 * 在github上开源项目
