@@ -68,6 +68,7 @@
 # 曾获荣誉
 * 2020.06 [第十三届中国大学生计算机设计大赛 辽宁赛区 二等奖](https://github.com/Charlotteqingcheng/Award-information)
 * 2020.05 [第十三届中国大学生计算机设计大赛 校赛 二等奖](https://github.com/Charlotteqingcheng/Award-information)
+* 2020.10 [互联网+ 校赛 三等奖](https://github.com/Charlotteqingcheng/Award-information)
 * 2018.11 校“优秀学生”称号
 * 2018.01 CAD高级设计师资格证书
 * 2018.06 校“优秀团员”称号
